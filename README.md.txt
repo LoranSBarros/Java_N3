@@ -23,7 +23,7 @@ Como Executar
 1.Abra o projeto no IntelliJ IDEA.
 2.Compile o código
 3.Execute o código:
-   - Clique com o botão direito na classe `Main.java` e selecione Run Main.main().
+   - Clique com o botão direito na classe `Main.java` e selecione o ícone Run
 
 
 
